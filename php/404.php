@@ -49,5 +49,16 @@
 			Pàgina Principal
 		</a>
 	</div>
+
+	<div>
+<lord-icon
+    src="https://cdn.lordicon.com/dpinvufc.json"
+    trigger="loop"
+    style="width:250px;height:250px">
+</lord-icon>
+	</div>
+
+	<script src="https://cdn.lordicon.com/lusqsztk.js"></script>
+
 </body>
 </html>
